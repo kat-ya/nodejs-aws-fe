@@ -1,3 +1,12 @@
+# NODEJS-AWS-FE
+## Manually deployed app
+ - [S3 bucket](http://rs-2021-task2.s3.amazonaws.com/)
+ - [CloudFront](https://d2gmxpot8g4idn.cloudfront.net/)
+
+## App deployed via Serverless
+ - [S3 bucket](http://rs-2021-task2-serverless.s3-website-us-east-1.amazonaws.com/)
+ - [CloudFront](https://d1aozobrzk7at4.cloudfront.net/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
